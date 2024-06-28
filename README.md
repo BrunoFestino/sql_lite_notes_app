@@ -1,3 +1,3 @@
 # sql_lite_notes_app
 
-A new Flutter project.
+Basic app to learn how to use SQL lite
